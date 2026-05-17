@@ -1,4 +1,4 @@
-# Tugas 6 (Week 12) - Dashboard Visualisasi Data PySide6
+# Tugas 7 (Week 12) - Dashboard Visualisasi Data PySide6
 
 Aplikasi dashboard interaktif yang dibangun menggunakan **PySide6**, **Pandas**, dan **Matplotlib**. Aplikasi ini berfungsi untuk memvisualisasikan data mentah menjadi informasi yang berguna dalam bentuk tabel, kartu ringkasan, dan grafik yang saling terintegrasi.
 
